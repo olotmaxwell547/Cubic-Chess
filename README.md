@@ -216,4 +216,4 @@ Cubic Chess is available as a full free version with all features and updates in
 Take your chess skills to the next level with Cubic Chess! Download now and start your unique chess journey today!
 
 ---
-**Last updated:** 2026-09-22 04:11:11 UTC
+**Last updated:** 2026-09-22 09:41:41 UTC
